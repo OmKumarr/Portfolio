@@ -269,13 +269,11 @@ section#portfolio {
     border: none;
     cursor: pointer;
 }
-.bottom-footer{
-    gap: 50rem;
+.bottom-footer {
+    margin-top: 5.5rem;
     display: flex;
-    justify-content: space-around;
     align-items: center;
-    margin-top: 5rem;
-    
+    justify-content: space-between;
 }
 .followme{
     display: flex;
