@@ -1,6 +1,6 @@
 //Typing Animation 
 var typed = new Typed(".auto-type", {
-  strings: ["WordPress Devloper","Graphics Designer", "Web Devloper" ],
+  strings: ["WordPress Developer","Graphics Designer", "Web Developer" ],
   typeSpeed : 150,
   backspeed : 150,
   loop : true
